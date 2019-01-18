@@ -1,0 +1,12 @@
+{
+   "name": "ts-pipes",
+   "version": "0.1.0",
+   "description": "Chain sync and async methods without nesting and preserve type information",
+   "dependencies": {},
+   "devDependencies": {
+      "typescript": "~3.2.4"
+   },
+   "scripts": {
+      "build": "tsc -p ."
+   }
+}

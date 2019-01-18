@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+      "target": "ES6",
+      "module": "es2015",
+      "declaration": true,
+      "sourceMap": true,
+      "outDir": "./dist",
+      "rootDir": "./src",
+      "strict": true,
+      "alwaysStrict": true,
+      "moduleResolution": "node",
+      "baseUrl": "./src", 
+    },
+    "files": [
+      "src/index.ts"
+    ]
+  }
